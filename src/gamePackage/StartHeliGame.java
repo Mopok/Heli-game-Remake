@@ -16,5 +16,5 @@ public class StartHeliGame {
             m.setVisible(true);
             
     }
-    //todo have call to open menu, run game from here
+    
 }
